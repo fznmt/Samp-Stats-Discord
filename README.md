@@ -29,9 +29,6 @@ PREFIX=!
 SAMPIP=play.uifserver.net
 SAMPPORT=7776
 ```
-## 📸 | Screenshoot
-![SCREENSHOT](Screenshot/1.png "Screenshot Verify Discord Bot")
-![SCREENSHOT](Screenshot/2.png "Screenshot Verify Discord Bot")
 ## 👑 | Credits
 [@Xzanx](https://github.com/Xzanx)
 ## 📱 | Discord Server
