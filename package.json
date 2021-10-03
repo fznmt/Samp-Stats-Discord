@@ -1,0 +1,32 @@
+{
+  "name": "Samp-Stats-Discord",
+  "version": "1.0.0",
+  "description": "Source Code Discord Bot Untuk Menampilkan Suatu Informasi Server SA-MP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0",
+    "samp-query": "^0.1.5",
+    "table": "^6.7.2"
+  },
+  "author": "Xzanx",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xzanx/Samp-Stats-Discord.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Xzanx/Samp-Stats-Discord/issues"
+  },
+  "homepage": "https://github.com/Xzanx/Samp-Stats-Discord#readme",
+  "keywords": [
+    "discordjs",
+    "bot",
+    "samp",
+    "discord",
+    "SA-MP"
+  ]
+}
