@@ -1,6 +1,6 @@
 {
   "name": "Samp-Stats-Discord",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Source Code Bot Discord Untuk Menampilkan Suatu Informasi Server SA-MP",
   "main": "index.js",
   "scripts": {
