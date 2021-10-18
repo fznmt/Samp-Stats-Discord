@@ -1,2 +1,2 @@
-*.shell linguist-detectable=false
-*.javascript linguist-detectable=true
+*.md linguist-detectable=false
+*.js linguist-detectable=true
